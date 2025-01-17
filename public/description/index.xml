@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Descriptions on RecoList</title>
+    <link>//localhost:1313/description/</link>
+    <description>Recent content in Descriptions on RecoList</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/description/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Description</title>
+      <link>//localhost:1313/description/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/description/description/</guid>
+      <description>&lt;h2 id=&#34;manga&#34;&gt;Manga&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Tux, the Linux mascot&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/manga2.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Manga&lt;/strong&gt;&lt;/em&gt; are Japanese comic books or graphic novels, typically read from right to left. They feature intricate artwork and immersive storytelling across multiple genres, making them a beloved medium worldwide. Manga is often serialized in magazines before being compiled into volumes. They inspire many anime adaptations and range from action-packed sagas to emotional dramas and lighthearted comedies. Popular examples include One Piece, Demon Slayer, and Death Note.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reccomendations on RecoList</title>
+    <link>//localhost:1313/reccomendations/</link>
+    <description>Recent content in Reccomendations on RecoList</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/reccomendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manga List</title>
+      <link>//localhost:1313/reccomendations/mangalist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reccomendations/mangalist/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Tux, the Linux mascot&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/one.JPG&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-one-piece&#34;&gt;1. One Piece&lt;/h3&gt;
+&lt;p&gt;Author: Eiichiro Oda&lt;br&gt;
+Chapters: 1070+ (Ongoing)&lt;br&gt;
+Summary: The story follows Monkey D. Luffy and his pirate crew as they search for the legendary treasure known as the &amp;ldquo;One Piece&amp;rdquo; in order to become the next Pirate King. Filled with action, humor, and heartfelt moments, this long-running series is known for its rich world-building and memorable characters.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img alt=&#34;Tux, the Linux mascot&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/two.JPG&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-naruto&#34;&gt;2. Naruto&lt;/h3&gt;
+&lt;p&gt;Author: Masashi Kishimoto&lt;br&gt;
+Chapters: 700&lt;br&gt;
+Summary: Naruto follows the journey of Naruto Uzumaki, a young ninja with dreams of becoming the strongest and gaining recognition as the leader of his village. The series explores themes of friendship, rivalry, and overcoming adversity in a world filled with powerful ninjas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Manhua List</title>
+      <link>//localhost:1313/reccomendations/manhualist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reccomendations/manhualist/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Tux, the Linux mascot&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/manhua.JPG&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-the-kings-avatar&#34;&gt;1. The King’s Avatar&lt;/h3&gt;
+&lt;p&gt;Author: Butterfly Blue&lt;br&gt;
+Chapters: 1728&lt;br&gt;
+Summary: Follow the journey of Ye Xiu, a professional esports player, as he reclaims his title as one of the best in the competitive online game &amp;ldquo;Glory.&amp;rdquo; With a combination of action and strategy, the story delves into the esports world with rich character development.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-battle-through-the-heavens&#34;&gt;2. Battle Through the Heavens&lt;/h3&gt;
+&lt;p&gt;Author: Tian Can Tu Dou&lt;br&gt;
+Chapters: 373&lt;br&gt;
+Summary: Xiao Yan loses his powers unexpectedly, but an ancient spirit helps him regain strength and uncover secrets. This story mixes martial arts, supernatural abilities, and adventure in a classic cultivation narrative.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Manwha List</title>
+      <link>//localhost:1313/reccomendations/manwhalist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reccomendations/manwhalist/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Tux, the Linux mascot&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/one.JPG&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-solo-leveling&#34;&gt;1. Solo Leveling&lt;/h3&gt;
+&lt;p&gt;Author: Chugong&lt;br&gt;
+Chapters: 179&lt;br&gt;
+Summary: Set in a world where hunters fight monsters for survival, weak hunter Jin-Woo becomes humanity’s strongest hunter after discovering a mysterious leveling system. His journey explores strength, survival, and the unknown forces at work.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img alt=&#34;Tux, the Linux&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/two.JPG&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-the-horizon&#34;&gt;2. The Horizon&lt;/h3&gt;
+&lt;p&gt;Author: JH&lt;br&gt;
+Chapters: 21&lt;br&gt;
+Summary: In a bleak, war-torn world, a young boy and girl wander together, confronting themes of loss, despair, and fleeting moments of hope. This emotionally powerful story explores the journey of finding solace amid darkness.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+baseURL = "/"
+title = "RecoList"
+theme = "papermod"
+
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Description"
+url = "/Description/"
+weight = 2
+
+[[menu.main]]
+name = "Recomendations"
+url = "/Recomendations/"
+weight = 3
